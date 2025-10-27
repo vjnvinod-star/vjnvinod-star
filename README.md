@@ -1,4 +1,4 @@
-# 👩‍💻 Vinod Vijayan – GitHub Profile Overview
+# Vinod Vijayan – GitHub Profile Overview
  
 Welcome to my GitHub! I’m **Vinod Vijayan**, a passionate and curious learner, currently working as Data anlaytics & AI Leader as a **Senior Manager**.
  
@@ -15,8 +15,8 @@ I’m interested in the intersection of **Artificial Intelligence, Data Analytic
  
 I love working on open-source projects, automation workflows, and data-driven solutions.
  
-- 🤝 I’m open to partnership & leadership roles in **AI/ML, Data Science, or Analytics**  
-- 🔗 Connect with me on [https://www.linkedin.com/in/vinod-vijayan-b69884122/]([url]
+- I’m open to partnership & leadership roles in **AI/ML, Data Science, or Analytics**  
+- Connect with me on [https://www.linkedin.com/in/vinod-vijayan-b69884122/]([url]
  
 ---
  
