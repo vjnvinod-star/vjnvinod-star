@@ -15,8 +15,8 @@ I’m interested in the intersection of **Artificial Intelligence, Data Analytic
  
 I love working on open-source projects, automation workflows, and data-driven solutions.
  
-- 🤝 I’m open to collaboration, internships, and full-time roles in **AI/ML, Data Science, or Analytics**  
-- 🔗 Connect with me on []([url](https://www.linkedin.com/in/vinod-vijayan-b69884122/))
+- 🤝 I’m open to partnership & leadership roles in **AI/ML, Data Science, or Analytics**  
+- 🔗 Connect with me on [https://www.linkedin.com/in/vinod-vijayan-b69884122/]([url]
  
 ---
  
