@@ -47,8 +47,8 @@ These certifications reflect not only subject mastery, but also my perseverance 
  
 ## 📊 GitHub Stats (Optional)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyishathRifa&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyishathRifa&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vjnvinod-star&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjnvinod-star&layout=compact)
  
 ---
  
