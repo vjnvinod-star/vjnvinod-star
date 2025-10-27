@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m **Vinod Vijayan**, a passionate and curious learner,
  
 ---
  
-## 📁 Overview
+## Overview
  
 I’m interested in the intersection of **Artificial Intelligence, Data Analytics, and Automation**. My work focuses on:
  
@@ -20,11 +20,11 @@ I love working on open-source projects, automation workflows, and data-driven so
  
 ---
  
-## 🎓 Certification Pathway
+## Certification Pathway
  
 I have completed certifications in:
  
-✅ **Core Certifications**
+**Core Certifications**
 - Exectuve Program from IIM Vishakapatnam  in AI & ML
 - PL-300: Microsoft Power BI Data Analyst  
 - AI-900: Microsoft Azure AI Fundamentals  
@@ -35,7 +35,7 @@ I have completed certifications in:
 These certifications reflect not only subject mastery, but also my perseverance and never-give-up mindset. I am proud of this journey and grateful for the unwavering support of my mentors, the SkillUpOnline platform, and above all, the grace of God that carried me through challenging times.
  
 ---
-## 🛠️ Skills
+## Skills
  
 **Programming & Tools**  
 `Python` · `Power BI` · `SQL` · `Pandas` · `NumPy` · `HTML/CSS/JS` · `Azure` · `PowerApps` · `Power Automate`  
